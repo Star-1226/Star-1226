@@ -1,395 +1,188 @@
-# 🚀 GenEDxAI: AI-Powered Educational Revolution
- 
 <div align="center"> 
 
-![GenEDxAI Logo](https://img.shields.io/badge/GenEDxAI-AI%20Education-blue?style=for-the-badge&logo=artificial-intelligence&logoColor=white)     
- 
-### 🎓 A Revolutionary Way of Learning with AI-Powered Intelligence  
-    
-[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-Try_Now-success?style=for-the-badge)](https://genedxai.onrender.com) 
-[![GitHub Stars](https://img.shields.io/github/stars/mohan13krishna/GenEDxAI?style=for-the-badge&logo=github)](https://github.com/mohan13krishna/GenEDxAI/stargazers)
-[![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)](LICENSE)
-[![Python](https://img.shields.io/badge/Python-3.9+-blue?style=for-the-badge&logo=python)](https://python.org)  
- 
-*Transforming GenZ education through intelligent AI-powered learning experiences*
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello World! I'm Mohan Krishna
 
-</div>
----
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=38B2AC&center=true&vCenter=true&random=false&width=800&lines=Full+Stack+Developer+%F0%9F%9A%80;Computer+Science+Student+%F0%9F%8E%93;AI+%26+ML+Enthusiast+%F0%9F%A4%96;Always+Learning+New+Technologies+%F0%9F%8C%B1;Building+the+Future+with+Code+%F0%9F%92%BB)](https://git.io/typing-svg)
 
-## 🌟 Overview
+<br>
 
-**GenEDxAI** is a cutting-edge AI-powered education platform specifically designed for the modern GenZ learner. Our platform revolutionizes traditional learning by combining interactive AI conversations with personalized assessment systems, creating an engaging and dynamic educational ecosystem.
+<p align="center">
+  <a href="https://portfolio-mohan-krishna-thalla.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://linkedin.com/in/mohan-krishna-thalla">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/mohan13krishna">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:mohankrishnathalla6@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+</p>
 
-Powered by **Google's Gemini AI**, GenEDxAI delivers intelligent, contextual responses to learning queries while generating customized examinations that adapt to individual learning patterns.
-
----
-
-## ✨ Key Features
-
-### 🧠 **Interactive AI Learning**
-- **Smart Q&A System**: Ask questions on any topic and receive detailed, educational responses
-- **Context-Aware Responses**: AI understands learning context and provides relevant information
-- **Multi-Subject Support**: From mathematics to literature, science to history
-
-### 📝 **Personalized Assessment Engine**
-- **Custom Exam Generation**: Create tailored exams on any subject matter
-- **Automatic Evaluation**: Instant scoring with detailed feedback
-- **Adaptive Difficulty**: Questions adjust based on your learning progress
-
-### 📊 **Comprehensive Progress Tracking**
-- **Learning Analytics**: Monitor your educational journey with detailed insights
-- **Performance History**: Track improvement over time
-- **Achievement System**: Celebrate learning milestones
-
-### 🔐 **Secure & Personal**
-- **User Authentication**: Secure personal accounts with encrypted data
-- **Privacy First**: Your learning data remains private and secure
-- **Multi-Device Sync**: Access your progress across all devices
-
-### 📱 **Modern Experience**
-- **Responsive Design**: Seamless experience on desktop, tablet, and mobile
-- **Intuitive Interface**: Clean, modern UI designed for GenZ preferences
-- **Real-time Interactions**: Instant responses and dynamic content loading
-
----
-
-## 🎯 Quick Start
-
-### 🔧 Prerequisites
-
-Before you begin, ensure you have the following installed:
-
-```bash
-Python 3.9 or higher
-MongoDB (local instance or cloud)
-Google Gemini API key
-Git
-```
-
-### 📦 Installation
-
-1. **Clone the Repository**
-   ```bash
-   git clone https://github.com/mohan13krishna/GenEDxAI.git
-   cd GenEDxAI
-   ```
-
-2. **Set Up Virtual Environment**
-   ```bash
-   # Windows
-   python -m venv venv
-   venv\Scripts\activate
-   
-   # macOS/Linux
-   python -m venv venv
-   source venv/bin/activate
-   ```
-
-3. **Install Dependencies**
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-4. **Configure Environment**
-   
-   Create `config/config.py`:
-   ```python
-   # Google Gemini AI Configuration
-   GEMINI_API_KEY = "your_gemini_api_key_here"
-   
-   # Database Configuration
-   MONGODB_URI = "mongodb://localhost:27017/"
-   DB_NAME = "edu_chatbot"
-   
-   # Security Configuration
-   SECRET_KEY = "your_secret_key_here"
-   ```
-
-5. **Launch Application**
-   ```bash
-   streamlit run app.py
-   ```
-
-6. **Access Platform**
-   
-   Open your browser and navigate to: `http://localhost:8501`
-
----
-
-## 🏗️ Project Architecture
-
-```
-GenEDxAI/
-├── 📁 .devcontainer/           # Development container configuration
-│   └── devcontainer.json
-├── 📁 config/                  # Configuration management
-│   ├── __init__.py
-│   └── config.py              # API keys & database settings
-├── 📁 static/                  # Static assets
-│   ├── videos/                # UI video assets
-│   ├── ai.json                # AI animation configurations
-│   └── style.css              # Custom styling
-├── 📁 utils/                   # Core utilities
-│   ├── __init__.py
-│   ├── auth.py                # Authentication system
-│   ├── chatbot.py             # AI chatbot engine
-│   ├── db.py                  # Database operations
-│   └── exam.py                # Exam generation & evaluation
-├── 📁 venv/                    # Virtual environment
-├── app.py                     # Main Streamlit application
-├── .env                       # Environment variables
-├── .gitignore                # Git ignore rules
-├── README.md                  # Project documentation
-└── requirements.txt           # Python dependencies
-```
-
----
-
-## 🔧 Configuration Guide
-
-### 🤖 Google Gemini AI Setup
-
-1. Visit [Google AI Studio](https://ai.google.dev/)
-2. Generate your API key
-3. Add the key to `config/config.py`
-
-### 🗄️ MongoDB Configuration
-
-**Local MongoDB:**
-```python
-MONGODB_URI = "mongodb://localhost:27017/"
-```
-
-**MongoDB Atlas (Cloud):**
-```python
-MONGODB_URI = "mongodb+srv://username:password@cluster.mongodb.net/"
-```
-
-### 🔐 Security Configuration
-
-Generate a secure secret key:
-```python
-import secrets
-SECRET_KEY = secrets.token_hex(32)
-```
-
----
-
-## 📚 How to Use GenEDxAI
-
-### 1️⃣ **Getting Started**
-- Launch the application
-- Create a new account or sign in
-- Complete your profile setup
-
-### 2️⃣ **Learning Mode**
-- Navigate to the "Learn" section
-- Type your question or topic
-- Receive intelligent, educational responses
-- Explore follow-up questions and deeper insights
-
-### 3️⃣ **Exam Mode**
-- Go to the "Exam" section
-- Enter your desired topic
-- Start your personalized 5-question quiz
-- Submit answers for instant evaluation
-
-### 4️⃣ **Progress Tracking**
-- Check the "Results" section
-- Review your learning history
-- Analyze performance trends
-- Set new learning goals
-
----
-
-## 🛠️ Technical Stack
-
-| Component | Technology | Purpose |
-|-----------|------------|---------|
-| **Frontend** | Streamlit | Interactive web interface |
-| **Backend** | Python | Core application logic |
-| **AI Engine** | Google Gemini AI | Natural language processing |
-| **Database** | MongoDB | User data & progress storage |
-| **Authentication** | Custom Auth System | Secure user management |
-| **Deployment** | Render | Cloud hosting platform |
-
----
-
-## 🤝 Contributing
-
-We welcome contributions from the community! Here's how you can help:
-
-### 🔀 **Contribution Process**
-
-1. **Fork the Repository**
-   ```bash
-   git fork https://github.com/mohan13krishna/GenEDxAI.git
-   ```
-
-2. **Create Feature Branch**
-   ```bash
-   git checkout -b feature/amazing-feature
-   ```
-
-3. **Make Your Changes**
-   - Write clean, documented code
-   - Follow existing code style
-   - Add tests where applicable
-
-4. **Commit Changes**
-   ```bash
-   git commit -m "Add amazing feature"
-   ```
-
-5. **Push to Branch**
-   ```bash
-   git push origin feature/amazing-feature
-   ```
-
-6. **Create Pull Request**
-   - Describe your changes
-   - Link any related issues
-   - Wait for review
-
-### 🐛 **Bug Reports**
-
-Found a bug? Please create an issue with:
-- Clear description of the problem
-- Steps to reproduce
-- Expected vs actual behavior
-- Screenshots (if applicable)
-
-### 💡 **Feature Requests**
-
-Have an idea? We'd love to hear it! Submit a feature request with:
-- Detailed description
-- Use case examples
-- Potential implementation ideas
-
----
-
-## 🌟 Meet Our Amazing Team
-
-<div align="center">
-
-### 💫 The Brilliant Minds Behind GenEDxAI 💫
 
 </div>
 
-<table align="center">
-<tr>
-<td align="center" width="25%">
-<a href="https://github.com/udaykiran2102">
-<img src="https://github.com/udaykiran2102.png" width="120px" style="border-radius: 50%;"/><br/>
-<h3><b>Uday Kiran</b></h3>
-<h4>🎨 Frontend Developer</h4>
-<p><i>"Crafting beautiful experiences"</i></p>
-</a>
-</td>
-<td align="center" width="25%">
-<a href="https://github.com/mohan13krishna">
-<img src="https://github.com/mohan13krishna.png" width="120px" style="border-radius: 50%;"/><br/>
-<h3><b>Mohan Krishna</b></h3>
-<h4>⚙️ Backend Developer</h4>
-<p><i>"Building robust architecture"</i></p>
-</a>
-</td>
-<td align="center" width="25%">
-<a href="https://github.com/rakeshkolipakaace">
-<img src="https://github.com/rakeshkolipakaace.png" width="120px" style="border-radius: 50%;"/><br/>
-<h3><b>Rakesh</b></h3>
-<h4>🤖 AI Integration Engineer</h4>
-<p><i>"Integrating AI solutions"</i></p>
-</a>
-</td>
-<td align="center" width="25%">
-<a href="https://github.com/ranjith93250">
-<img src="https://github.com/ranjith93250.png" width="120px" style="border-radius: 50%;"/><br/>
-<h3><b>Ranjith Kumar</b></h3>
-<h4>🗄️ Database Manager</h4>
-<p><i>"Managing data architecture"</i></p>
-</a>
-</td>
-</tr>
-</table>
+## <div align="left">👨‍💻 About Me</div>
 
----
+<div align="left">
 
-## 🎯 Mission & Vision
-
-### 🚀 **Our Mission**
-*"Revolutionizing education through AI-powered learning experiences designed specifically for the next generation of learners."*
-
-### 🎯 **Our Vision**
-*"Creating a world where quality education is accessible, interactive, and personalized for every GenZ learner, anywhere, anytime."*
-
----
-
-## 📈 Project Stats
-
-<div align="center">
-
-![GitHub commit activity](https://img.shields.io/github/commit-activity/m/mohan13krishna/GenEDxAI?style=for-the-badge)
-![GitHub last commit](https://img.shields.io/github/last-commit/mohan13krishna/GenEDxAI?style=for-the-badge)
-![GitHub repo size](https://img.shields.io/github/repo-size/mohan13krishna/GenEDxAI?style=for-the-badge)
-![GitHub language count](https://img.shields.io/github/languages/count/mohan13krishna/GenEDxAI?style=for-the-badge)
+🎓 **B.Tech in Computer Science & Engineering** student at ACE Engineering College (Final Year)  
+💻 **Full Stack Developer** passionate about creating innovative web solutions  
+🤖 **AI/ML Enthusiast** exploring the future of intelligent applications  
+🚀 **Tech Explorer** always diving into cutting-edge technologies  
+🔍 **Open to Opportunities** seeking internships and collaborations  
+💡 **Problem Solver** turning complex challenges into simple solutions  
+✨ **Philosophy**: *"Code is poetry written in logic"*
 
 </div>
 
----
 
-## 📄 License
+<summary><div align="left">🎯 My Professional Journey & Goals</div></summary>
+<div align="left">
 
-This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
+**Current Focus:**
+- 🏗️ Building scalable full-stack applications with modern frameworks
+- 🧠 Integrating AI/ML capabilities into web applications
+- 🌐 Exploring serverless architecture and cloud-native solutions
+- 📱 Developing responsive, accessible, and user-centric interfaces
 
-```
-MIT License
+**Future Aspirations:**
+- 🚀 Lead innovative projects that make a meaningful impact
+- 🌍 Contribute to open-source communities and mentor fellow developers
+- 🔮 Pioneer the integration of emerging technologies in real-world applications
+- 🏆 Build products that solve complex problems with elegant solutions
 
-Copyright (c) 2024 GenEDxAI Team
+</div>
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-```
 
----
-
-## 🙏 Acknowledgments
-
-We extend our heartfelt gratitude to:
-
-- **[Streamlit](https://streamlit.io/)** - For the incredible web framework
-- **[Google Gemini AI](https://ai.google.dev/)** - For powering our AI capabilities  
-- **[MongoDB](https://www.mongodb.com/)** - For robust database solutions
-- **[Render](https://render.com/)** - For seamless deployment platform
-- **[Lottie Files](https://lottiefiles.com/)** - For beautiful animations
-- **Open Source Community** - For continuous inspiration and support
-
----
-
-## 📞 Contact & Support
+## <div align="center">🛠️ Tech Arsenal</div>
 
 <div align="center">
 
-### 🔗 **Important Links**
+### 💻 Programming Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,python,java,c&theme=dark" alt="Programming Languages" />
+</p>
 
-[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-GenEDxAI-success?style=for-the-badge)](https://genedxai.onrender.com)
-[![GitHub Repository](https://img.shields.io/badge/📁_Repository-GitHub-black?style=for-the-badge&logo=github)](https://github.com/mohan13krishna/GenEDxAI)
-[![Documentation](https://img.shields.io/badge/📚_Docs-Wiki-blue?style=for-the-badge)](https://github.com/mohan13krishna/GenEDxAI/wiki)
+### 🎨 Frontend Technologies
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind&theme=dark" alt="Frontend Technologies" />
+</p>
 
-### 💬 **Get in Touch**
+### ⚙️ Backend & Database
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase&theme=dark" alt="Backend & Database" />
+</p>
 
-Have questions? Need support? Want to collaborate?
+### ☁️ DevOps & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,docker,git,github,jenkins&theme=dark" alt="DevOps & Tools" />
+</p>
 
-[![Email](https://img.shields.io/badge/📧_Email-Contact_Us-red?style=for-the-badge)](mailto:genedxai@gmail.com)
-[![Issues](https://img.shields.io/badge/🐛_Issues-Report_Bug-orange?style=for-the-badge)](https://github.com/mohan13krishna/GenEDxAI/issues)
-[![Discussions](https://img.shields.io/badge/💭_Discussions-Join_Chat-purple?style=for-the-badge)](https://github.com/mohan13krishna/GenEDxAI/discussions)
+### 🤖 AI/ML & Data Science
+<p>
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch&theme=dark" alt="AI/ML Frameworks" />
+</p>
+<p>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn"/>
+</p>
+
+</div>
+
+
+## <div align="center">📊 GitHub Analytics</div>
+
+<div align="center">
+
+### 📈 Contribution Graph
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mohan13krishna&custom_title=Mohan%20Krishna's%20Contribution%20Journey&bg_color=000000&color=00ff00&line=00ff00&point=ffffff&area_color=00ff00&title_color=ffffff&area=true&hide_border=true&theme=github-dark&v=2)
+
+<br><br>
+
+### 🔥 GitHub Statistics
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=mohan13krishna&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&icon_color=7c3aed&title_color=7c3aed" alt="GitHub Stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohan13krishna&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&title_color=7c3aed" alt="Most Used Languages" height="180"/>
+</p>
+
+### ⚡ Streak Stats
+<img src="https://nirzak-streak-stats.vercel.app/?user=mohan13krishna&theme=tokyonight&hide_border=true&background=0D1117&stroke=7c3aed&ring=7c3aed&fire=7c3aed&currStreakLabel=7c3aed" alt="GitHub Streak" width="95%"/>
+
+### 🏆 GitHub Trophies
+<img src="https://github-profile-trophy.vercel.app/?username=mohan13krishna&theme=dark_lover&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" alt="GitHub Trophies"/>
+
+</div>
+
+
+## <div align="center">🚀 Featured Projects</div>
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="300"/>
+
+### 📚 Repository Highlights
+🎯 **Full-Stack Applications** • 🤖 **AI/ML Projects** • 🔧 **Open Source Tools** • 📱 **Mobile-First Solutions**
+
+**Building the future, one commit at a time**
+
+<br>
+
+<p>
+<a href="https://portfolio-mohan-krishna-thalla.netlify.app/">
+  <img src="https://img.shields.io/badge/🌟_View_My_Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="View Portfolio"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/mohan13krishna?tab=repositories">
+  <img src="https://img.shields.io/badge/🔍_Explore_All_Repositories-2ea44f?style=for-the-badge&logo=github&logoColor=white" alt="View All Repositories"/>
+</a>
+</p>
+
+</div>
+
+
+## <div align="center">📫 Let's Connect & Collaborate</div>
+
+<div align="center">
+
+### 💼 Professional Network
+<p>
+  <a href="https://portfolio-mohan-krishna-thalla.netlify.app/">
+    <img src="https://img.shields.io/badge/-Visit_My_Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://linkedin.com/in/mohan-krishna-thalla">
+    <img src="https://img.shields.io/badge/-Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:mohankrishnathalla6@gmail.com">
+    <img src="https://img.shields.io/badge/-Send_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+</p>
+
+### 🤝 Open to:
+**Internships** • **Collaborations** • **Open Source** • **Freelance Projects** • **Mentorship**
+
+</div>
+
+
+## <div align="center">🎯 2025 Goals</div>
+
+<div>
+
+🎓 **Complete B.Tech with honors** - Finish my degree with excellent grades  
+💼 **Land amazing full-stack developer role** - Join a dynamic tech company  
+🚀 **Launch 3 innovative web applications** - Build products that make a difference  
+🤝 **Contribute to 10+ open source repos** - Give back to the developer community  
+📚 **Master cloud architecture & DevOps** - Expand my technical expertise  
+🎯 **Help 100+ developers through content** - Create tutorials and share knowledge
 
 </div>
 
@@ -397,26 +190,16 @@ Have questions? Need support? Want to collaborate?
 
 <div align="center">
 
-### ⭐ **Show Your Support**
+### 👀 Profile Visitors
 
-If you find GenEDxAI helpful, please consider giving us a star!
+<img src="https://profile-counter.glitch.me/mohan13krishna/count.svg" alt="Visitor Count" />
 
-[![Star History Chart](https://api.star-history.com/svg?repos=mohan13krishna/GenEDxAI&type=Date)](https://star-history.com/#mohan13krishna/GenEDxAI&Date)
 
----
+### 💝 Thank You for Visiting!
 
-### 🚀 **Ready to Transform Education?**
+<p><i>✨ "Great things happen when passionate minds collaborate!" ✨</i></p>
 
-**[🎓 Try GenEDxAI Now →](https://genedxai.onrender.com)**
-
----
-
-*Built with ❤️ by the GenEDxAI Team | Empowering GenZ Learning Since 2024*
-
-**© 2024 GenEDxAI. All rights reserved.**
+<p><sub>💡 <strong>Pro tip:</strong> Star ⭐ my repositories if you find them useful!</sub></p>
 
 </div>
-
----
-
-> **⚠️ Important Note**: This project is developed for educational purposes. Please use responsibly and respect the terms of service of all integrated APIs and services.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
