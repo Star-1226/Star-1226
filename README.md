@@ -81,35 +81,19 @@
 </div>
 
 
-
-
-## <div align="center">🎯 2025 Goals</div>
-
-<div>
-
-🎓 **Complete B.Tech with honors** - Finish my degree with excellent grades  
-💼 **Land amazing full-stack developer role** - Join a dynamic tech company  
-🚀 **Launch 3 innovative web applications** - Build products that make a difference  
-🤝 **Contribute to 10+ open source repos** - Give back to the developer community  
-📚 **Master cloud architecture & DevOps** - Expand my technical expertise  
-🎯 **Help 100+ developers through content** - Create tutorials and share knowledge
-
-</div>
-
 ---
 
 <div align="center">
 
-### 👀 Profile Visitors
-
-<img src="https://profile-counter.glitch.me/mohan13krishna/count.svg" alt="Visitor Count" />
-
-
-### 💝 Thank You for Visiting!
-
-<p><i>✨ "Great things happen when passionate minds collaborate!" ✨</i></p>
-
-<p><sub>💡 <strong>Pro tip:</strong> Star ⭐ my repositories if you find them useful!</sub></p>
-
+---
+## :mailbox: Let’s Connect
+- :email: Email: catop0461@gmail.com
+- :link: GitHub: [ideaLighthouse4661](https://github.com/ideaLighthouse4661)
+- :briefcase: LinkedIn:
+---
+:star: *Always open to new challenges and collaboration opportunities.*
+GitHubGitHub
+ideaLighthouse4661 - Overview
+ideaLighthouse4661 has 15 repositories available. Follow their code on GitHub.
 </div>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
