@@ -80,20 +80,8 @@
 
 </div>
 
-
----
-
-<div align="center">
-
----
 ## :mailbox: Let’s Connect
 - :email: Email: catop0461@gmail.com
 - :link: GitHub: [ideaLighthouse4661](https://github.com/ideaLighthouse4661)
 - :briefcase: LinkedIn:
----
-:star: *Always open to new challenges and collaboration opportunities.*
-GitHubGitHub
-ideaLighthouse4661 - Overview
-ideaLighthouse4661 has 15 repositories available. Follow their code on GitHub.
-</div>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
