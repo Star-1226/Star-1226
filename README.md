@@ -31,13 +31,13 @@
 ## <div align="left">👨‍💻 About Me</div>
 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🎓 **B.Tech in Computer Science & Engineering** student at ACE Engineering College (Final Year)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;💻 **Full Stack Developer** passionate about creating innovative web solutions  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🤖 **AI/ML Enthusiast** exploring the future of intelligent applications  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🚀 **Tech Explorer** always diving into cutting-edge technologies  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🔍 **Open to Opportunities** seeking internships and collaborations  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;💡 **Problem Solver** turning complex challenges into simple solutions  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✨ **Philosophy**: *"Code is poetry written in logic"*
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🎓 **B.Tech in Computer Science & Engineering** student at ACE Engineering College (Final Year)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;💻 **Full Stack Developer** passionate about creating innovative web solutions  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🤖 **AI/ML Enthusiast** exploring the future of intelligent applications  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🚀 **Tech Explorer** always diving into cutting-edge technologies  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🔍 **Open to Opportunities** seeking internships and collaborations  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;💡 **Problem Solver** turning complex challenges into simple solutions  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✨ **Philosophy**: *"Code is poetry written in logic"*
 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
