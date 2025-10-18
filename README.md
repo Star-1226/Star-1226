@@ -9,7 +9,7 @@
   </a>
   &nbsp;&nbsp;
   <a href="https://www.kaggle.com/starkom">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Kaggle" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle" />
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/Star-1226">
