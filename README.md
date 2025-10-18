@@ -39,5 +39,6 @@
 &nbsp;&nbsp;🔍 **Open to Opportunities** seeking internships and collaborations  
 &nbsp;&nbsp;💡 **Problem Solver** turning complex challenges into simple solutions  
 &nbsp;&nbsp;✨ **Philosophy**: *"Code is poetry written in logic"*
+</div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
