@@ -30,7 +30,7 @@
 
 ## <div align="left">👨‍💻 About Me</div>
 
-<div style="padding-left: 500px;">
+<div style="padding-left: 50px;">
 
 🎓 **B.Tech in Computer Science & Engineering** student at ACE Engineering College (Final Year)  
 💻 **Full Stack Developer** passionate about creating innovative web solutions  
