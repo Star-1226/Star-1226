@@ -42,26 +42,6 @@
 💡 **Problem Solver** turning complex challenges into simple solutions  
 ✨ **Philosophy**: *"Code is poetry written in logic"*
 
-</div>
-
-
-<summary><div align="left">🎯 My Professional Journey & Goals</div></summary>
-<div align="left">
-
-**Current Focus:**
-- 🏗️ Building scalable full-stack applications with modern frameworks
-- 🧠 Integrating AI/ML capabilities into web applications
-- 🌐 Exploring serverless architecture and cloud-native solutions
-- 📱 Developing responsive, accessible, and user-centric interfaces
-
-**Future Aspirations:**
-- 🚀 Lead innovative projects that make a meaningful impact
-- 🌍 Contribute to open-source communities and mentor fellow developers
-- 🔮 Pioneer the integration of emerging technologies in real-world applications
-- 🏆 Build products that solve complex problems with elegant solutions
-
-</div>
-
 
 
 ## <div align="center">🛠️ Tech Arsenal</div>
@@ -101,79 +81,6 @@
 </div>
 
 
-## <div align="center">📊 GitHub Analytics</div>
-
-<div align="center">
-
-### 📈 Contribution Graph
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mohan13krishna&custom_title=Mohan%20Krishna's%20Contribution%20Journey&bg_color=000000&color=00ff00&line=00ff00&point=ffffff&area_color=00ff00&title_color=ffffff&area=true&hide_border=true&theme=github-dark&v=2)
-
-<br><br>
-
-### 🔥 GitHub Statistics
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=mohan13krishna&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&icon_color=7c3aed&title_color=7c3aed" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohan13krishna&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&title_color=7c3aed" alt="Most Used Languages" height="180"/>
-</p>
-
-### ⚡ Streak Stats
-<img src="https://nirzak-streak-stats.vercel.app/?user=mohan13krishna&theme=tokyonight&hide_border=true&background=0D1117&stroke=7c3aed&ring=7c3aed&fire=7c3aed&currStreakLabel=7c3aed" alt="GitHub Streak" width="95%"/>
-
-### 🏆 GitHub Trophies
-<img src="https://github-profile-trophy.vercel.app/?username=mohan13krishna&theme=dark_lover&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" alt="GitHub Trophies"/>
-
-</div>
-
-
-## <div align="center">🚀 Featured Projects</div>
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="300"/>
-
-### 📚 Repository Highlights
-🎯 **Full-Stack Applications** • 🤖 **AI/ML Projects** • 🔧 **Open Source Tools** • 📱 **Mobile-First Solutions**
-
-**Building the future, one commit at a time**
-
-<br>
-
-<p>
-<a href="https://portfolio-mohan-krishna-thalla.netlify.app/">
-  <img src="https://img.shields.io/badge/🌟_View_My_Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="View Portfolio"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://github.com/mohan13krishna?tab=repositories">
-  <img src="https://img.shields.io/badge/🔍_Explore_All_Repositories-2ea44f?style=for-the-badge&logo=github&logoColor=white" alt="View All Repositories"/>
-</a>
-</p>
-
-</div>
-
-
-## <div align="center">📫 Let's Connect & Collaborate</div>
-
-<div align="center">
-
-### 💼 Professional Network
-<p>
-  <a href="https://portfolio-mohan-krishna-thalla.netlify.app/">
-    <img src="https://img.shields.io/badge/-Visit_My_Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://linkedin.com/in/mohan-krishna-thalla">
-    <img src="https://img.shields.io/badge/-Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:mohankrishnathalla6@gmail.com">
-    <img src="https://img.shields.io/badge/-Send_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-</p>
-
-### 🤝 Open to:
-**Internships** • **Collaborations** • **Open Source** • **Freelance Projects** • **Mentorship**
-
-</div>
 
 
 ## <div align="center">🎯 2025 Goals</div>
