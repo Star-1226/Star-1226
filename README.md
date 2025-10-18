@@ -1,7 +1,7 @@
 <div align="center"> 
 
 # 👋Hello, I'm Star-1226
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=38B2AC&center=true&vCenter=true&random=false&width=800&lines=AI|Full+Stack+Developer+%F0%9F%9A%80;Always+Learning+New+Technologies+%F0%9F%8C%B1;Building+the+Future+with+Code+%F0%9F%92%BB)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=38B2AC&center=true&vCenter=true&random=false&width=800&lines=AI & Full+Stack+Developer+%F0%9F%9A%80;Always+Learning+New+Technologies+%F0%9F%8C%B1;Building+the+Future+with+Code+%F0%9F%92%BB)
 
 <p align="center">
   <a href="https://portfolio-mohan-krishna-thalla.netlify.app/">
